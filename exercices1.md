@@ -10,3 +10,4 @@
 ![Capture d'écran 2024-12-13 110024](https://github.com/user-attachments/assets/f7a111e7-f538-4f5f-b4e8-0059853e0366)
 ![Capture d'écran 2024-12-13 110935](https://github.com/user-attachments/assets/b23771ea-e30d-4236-8136-2eb37e09b71c)
 ![Capture d'écran 2024-12-13 111113](https://github.com/user-attachments/assets/0112e2c5-5584-4a01-8075-32f3a2c7f0b5)
+**En cours, le montage au redémarrage n'as pas fonctionné**
